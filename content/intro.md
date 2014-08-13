@@ -4,18 +4,16 @@
 
 ### **Gilberto Alvarado**
 
-Software Engineer Consultant
+Ingeniero de software / Consultor
 
 ![tk](http://www.tacitknowledge.com/wp-content/uploads/2014/04/TK_logo_horiz.png)
-
-* Consultor / Programador / Tech lead / DevOps
 
 * @hackergil
 * hackergil.com
 
 
 
-## Ingeniero de software?
+## ¿Ingeniero de software?
 ### (También llamado _programador_)
 
 
@@ -29,10 +27,9 @@ Software Engineer Consultant
 * Conocimiento técnico
   * Lenguaje(s) de programación
   * Tecnología(s) (Frameworks, herramientas, etc.)
-  * "Best practices"
+  * "Buenas prácticas"
 * Solución de problemas
-* Metodologías
-* Etcétera
+* Metodologías de desarrollo
 
 
 
@@ -70,23 +67,21 @@ construyendo una relación de confianza"
 
 ## Consultor
 
-* Dominio de uno o varios campos o áreas
-* Resolución de problemas de alto nivel
-* Construye relaciones
-* Desea ayudar a su cliente (sinceramente)
-* Compromiso
-* Comunicación
-* __Diplomacia__
+* Domina uno o varios campos o áreas
+* Soluciona problemas de alto nivel
+* Recomienda soluciones en base a conocimientos y experiencia
+* Ayuda, orienta y trabaja con el cliente
+* Construye relaciones de confianza
 
 
 
-## Ingeniero-Consultor
+## Ingeniero / Consultor
 
 ![engineer consultant](http://static.hogarutil.com/archivos/201110/feng-shui-ying-yang-xl-668x400x80xX.jpg)
 
 
 
-## Porqué?
+## ¿Por qué?
 
 "Las personas más valiosas en una organización son aquellas que pueden
 hablar ingeniería y pueden hablar cliente. Se arremangan la camisa y hacen su trabajo"
@@ -99,10 +94,10 @@ hablar ingeniería y pueden hablar cliente. Se arremangan la camisa y hacen su t
 
 
 
-## Porqué?
+## ¿Por qué?
 
 * Desarrollar software es una actividad *social*
-  * El buen software lo hacemos entre muchos
+  * El software se construye en equipo
   * Alguien paga por el software que construyes
   * Alguien usa el software que escribes
 
@@ -111,7 +106,7 @@ relación de confianza"
 
 
 
-## Cómo?
+## ¿Cómo?
 
 "La experiencia proviene de malas decisiones o juicios. Las decisiones o
 juicios acertados provienen de la experiencia"
@@ -144,7 +139,7 @@ repetido 10 veces"
 * Aprende a escuchar
 * Empatía
 * Sé siempre profesional
-* _La pluma es más poderos que la espada_
+* _La pluma es más poderosa que la espada_
 
 
 
@@ -158,7 +153,7 @@ repetido 10 veces"
 
 
 
-# Preguntas, dudas, comentarios, quejas, sugerencias...??
+## ¿Preguntas?
 
 
 
