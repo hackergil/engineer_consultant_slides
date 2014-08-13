@@ -1,4 +1,4 @@
-# El ingeniero consultor
+# El ingeniero / consultor
 
 
 
@@ -9,6 +9,7 @@ Ingeniero de software / Consultor
 ![tk](http://www.tacitknowledge.com/wp-content/uploads/2014/04/TK_logo_horiz.png)
 
 * @hackergil
+* gil@hackergil.com
 * hackergil.com
 
 
