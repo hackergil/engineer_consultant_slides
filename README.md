@@ -1,6 +1,6 @@
-# Thor slides
+# Engineer / Consultant
 
-This is a presentation for a lightning talk about [Thor](https://github.com/erikhuda/thor). It is built with [reveal.js](http://lab.hakim.se/reveal-js/) 
+This is a presentation that talks about an engineer / consultant. It is built with [reveal.js](http://lab.hakim.se/reveal-js/) 
 
 ## Running the presentation
 
